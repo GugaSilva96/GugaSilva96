@@ -15,12 +15,12 @@ Confira meus projetos e contribuições no GitHub: [GugaSilva96](https://github.
 Atualmente, busco oportunidades desafiadoras para aplicar meu conhecimento prático e crescer profissionalmente. Ao longo da minha jornada acadêmica, adquiri sólido conhecimento em lógica de programação, modelagem de bancos de dados e desenvolvimento ágil colaborativo.
 
 ## Contato
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)
- guga.h.costaesilva@gmail.com
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/DDI+DDD+SEU_NUMERO_WHATSAPP)
- +55 21 972262615
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
- [linkedin.com/in/gustavosilva](https://linkedin.com/in/gustavosilva)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL): 
+ guga.h.costaesilva@gmail.com  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/DDI+DDD+SEU_NUMERO_WHATSAPP):
+ +55 21 972262615  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/): 
+ [linkedin.com/in/gustavosilva](https://linkedin.com/in/gustavosilva)  
 
 ## Certificações
 - Desenvolvimento de Banco de Dados
