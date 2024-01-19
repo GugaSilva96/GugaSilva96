@@ -6,8 +6,7 @@ Bem-vindo ao meu perfil! 👋
 Olá, sou Gustavo Silva, um entusiasta do desenvolvimento de software especializado em tecnologias como Python, Java, Kotlin e LUA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá, onde tenho me dedicado ao aprimoramento das minhas habilidades em desenvolvimento back-end.
 
 ## Minhas Habilidades
-![Python](https://img.shields.io/badge/Python-Expert-green) ![Java](https://img.shields.io/badge/Java-Advanced-orange) ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-yellow) ![LUA](https://img.shields.io/badge/LUA-Intermediate-yellow)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 	![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)> ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8) ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Meu GitHub
 Confira meus projetos e contribuições no GitHub: [GugaSilva96](https://github.com/GugaSilva96)
@@ -53,4 +52,3 @@ Atualmente, busco oportunidades desafiadoras para aplicar meu conhecimento prát
 
 Estou animado para explorar oportunidades que desafiem e expandam minhas habilidades. Vamos conectar e construir algo incrível juntos! 🚀 #Desenvolvedor #Python #Java #Kotlin #LUA #GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
