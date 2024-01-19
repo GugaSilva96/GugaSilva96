@@ -61,3 +61,5 @@ Atualmente, busco oportunidades desafiadoras para aplicar meu conhecimento prát
 
 Estou animado para explorar oportunidades que desafiem e expandam minhas habilidades. Vamos conectar e construir algo incrível juntos! 🚀 #Desenvolvedor #Python #Java #Kotlin #LUA #GitHub
 
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=GugaSilva96&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
