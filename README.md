@@ -64,7 +64,7 @@ Atualmente, busco oportunidades desafiadoras para aplicar meu conhecimento prát
 
 Estou animado para explorar oportunidades que desafiem e expandam minhas habilidades. Vamos conectar e construir algo incrível juntos! 🚀 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GugaSilva96&repo=Campeonato-Mundial-2024-JUDO-em-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/GugaSilva96/Campeonato-Mundial-2024-JUDO-em-Python.git))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GugaSilva96&repo=Campeonato-Mundial-2024-JUDO-em-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GugaSilva96/Campeonato-Mundial-2024-JUDO-em-Python.git))
 
 
 #Desenvolvedor #Python #Java #Kotlin #LUA #GitHub
