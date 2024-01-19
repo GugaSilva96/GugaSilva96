@@ -12,7 +12,7 @@ Olá, sou Gustavo Silva, um entusiasta do desenvolvimento de software especializ
 Confira meus projetos e contribuições no GitHub: [GugaSilva96](https://github.com/GugaSilva96)
 
 
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GugaSilva96&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)   [![GitHub Streak](https://streak-stats.demolab.com/?user=GugaSilva96&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GugaSilva96&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GugaSilva96&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)   
 
 
 ## Resumo
