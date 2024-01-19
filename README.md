@@ -16,7 +16,9 @@ Confira meus projetos e contribuições no GitHub: [GugaSilva96](https://github.
 
 
 ## Resumo
-Atualmente, busco oportunidades desafiadoras para aplicar meu conhecimento prático e crescer profissionalmente. Ao longo da minha jornada acadêmica, adquiri sólido conhecimento em lógica de programação, modelagem de bancos de dados e desenvolvimento ágil colaborativo.
+Atualmente, busco oportunidades desafiadoras para aplicar meu conhecimento prático e crescer profissionalmente. Ao longo da minha jornada acadêmica, adquiri sólido conhecimento em lógica de programação, modelagem de bancos de dados e desenvolvimento ágil colaborativo.  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GugaSilva96&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## Contato
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL): 
@@ -62,7 +64,7 @@ Atualmente, busco oportunidades desafiadoras para aplicar meu conhecimento prát
 
 Estou animado para explorar oportunidades que desafiem e expandam minhas habilidades. Vamos conectar e construir algo incrível juntos! 🚀 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GugaSilva96&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GugaSilva96&repo=Campeonato-Mundial-2024-JUDO-em-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/GugaSilva96/Campeonato-Mundial-2024-JUDO-em-Python.git))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GugaSilva96&repo=Campeonato-Mundial-2024-JUDO-em-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/GugaSilva96/Campeonato-Mundial-2024-JUDO-em-Python.git))
 
 
 #Desenvolvedor #Python #Java #Kotlin #LUA #GitHub
