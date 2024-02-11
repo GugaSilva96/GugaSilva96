@@ -32,11 +32,12 @@ Atualmente, busco oportunidades desafiadoras para aplicar meu conhecimento prát
    
 
 ## Certificações
-- Desenvolvimento de Banco de Dados
-- Desenvolvimento Ágil
-- DevOps
-- Desenvolvimento Back-end
-- Desenvolvimento de Jogos
+- LFC131: Green Software for Practitioners
+- LFD116: Software Engeneering Basics for Embedded Systems. 
+- Desenvolvimento Seguro. 
+- Desenvolvimento Back-end. 
+- Kotlin Developer.
+- Android Developer. 
 
 ## Experiência Profissional
 
