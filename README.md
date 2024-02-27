@@ -42,7 +42,7 @@ Atualmente, busco oportunidades desafiadoras para aplicar meu conhecimento prát
 ## Experiência Profissional
 
 ### Analista de Suporte Bilingue Jr - Service Desk
-**Outubro de 2023 - Presente (4 meses)**
+**Outubro de 2023 - Presente**
 - Atendimento de Microinformática.
 - Suporte a softwares de mercado, sistemas internos e Active Directory.
 - Suporte em hardware (desktops, notebooks, impressoras, etc.).
