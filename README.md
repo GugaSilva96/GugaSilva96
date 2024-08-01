@@ -3,7 +3,19 @@
 Bem-vindo ao meu perfil! 👋
 
 ## Sobre Mim
-Olá, sou Gustavo Silva, um entusiasta do desenvolvimento de software com conhecimentos sólidos em linguagens como Python, Kotlin e LUA além de uma forte base de fundamentos em tecnologias Android e Linux. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá, onde tenho diariamente me dedicado ao aprimoramento das minhas habilidades. Nesse momento, estou imerso em estudos para certificação Linux Professional Institute LPIC-1.
+Cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Back-End.
+
+Busco oportunidades de crescimento profissional na área de tecnologia, onde possa aplicar e desenvolver minhas habilidades em desenvolvimento Back-End e suporte técnico, contribuindo para o sucesso e inovação das empresas.
+
+Perfil Trailblazer: https://www.salesforce.com/trailblazer/gugasilva96
+
+Portifólio Online: https://curious-panda-boc7tf-dev-ed.trailblaze.my.site.com/portfolio/s/
+
+Perfil no GitHub: https://github.com/GugaSilva96
+
+Perfil público na DIO: https://www.dio.me/users/guga_h_costaesilva
+
+#Desenvolvedor #Python #Kotlin #Lua #AWS #OracleCloud #Azure #GCP #Linux #Android #Docker #Kubernetes #CI/CD #Git #GitHub #GitLab #Ansible #Terraform #Salesforce
 
 ## Minhas Habilidades
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 	![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8) ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
