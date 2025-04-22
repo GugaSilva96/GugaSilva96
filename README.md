@@ -1,72 +1,51 @@
-# Analista DevOps
+# 👋 Olá! Eu sou Gustavo Henrique
 
-Bem-vindo ao meu perfil! 👋
+Profissional com atuação estratégica na interseção entre **DevOps**, **cloud computing (Azure)** e **FinOps**, com uma visão voltada para **sustentabilidade operacional e financeira**. Minha missão é ajudar organizações a escalar suas operações de forma eficiente, sustentável e alinhada às melhores práticas de engenharia e negócios.
 
-## Sobre Mim
-Cursando Análise e Desenvolvimento de Sistemas com foco em Back-End e práticas DevOps, atuo como Analista DevOps Júnior, engajado na otimização de processos e entrega de soluções de alta performance.
+---
 
-## Minhas Habilidades
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 	![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8) ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🛠️ Competências-Chave
 
+- **DevOps & Engenharia de Plataforma**
+  - Automação de pipelines CI/CD
+  - Monitoramento, observabilidade e gestão de incidentes
+  - Infraestrutura como código (IaC) com foco em governança e segurança
 
-## Meu GitHub
-Confira meus projetos e contribuições no GitHub: [GugaSilva96](https://github.com/GugaSilva96)
+- **Microsoft Azure**
+  - Provisionamento e gerenciamento de recursos
+  - Otimização de workloads e uso eficiente de serviços PaaS/SaaS
+  - Adoção de boas práticas de custo e performance em ambientes multi-cloud
 
+- **FinOps**
+  - Implementação das fases: *Conscientização, Capacitação e Responsabilização*
+  - Colaboração entre áreas técnicas e financeiras
+  - Redução de desperdícios e aumento da previsibilidade orçamentária na nuvem
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GugaSilva96&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+- **Sustentabilidade Digital**
+  - Adoção de estratégias para eficiência energética em cloud
+  - Conscientização sobre impacto ambiental das operações digitais
+  - Apoio a iniciativas ESG ligadas à tecnologia
 
+---
 
-## Resumo
-Atualmente, busco oportunidades desafiadoras para aplicar meu conhecimento prático e crescer profissionalmente. Ao longo da minha jornada acadêmica, adquiri sólido conhecimento em lógica de programação, modelagem de bancos de dados e desenvolvimento ágil colaborativo.  
+## 🧠 Certificações em Andamento
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GugaSilva96&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+| Certificação           | Status         | Badge |
+|------------------------|----------------|--------|
+| AZ-104 – Administrator | 🔄 Em andamento   | -      |
+| AZ-204 – Developer     | 🔄 Em andamento   | -      |
+| AZ-400 – DevOps Expert | 🔄 Em andamento   | -      |
+| FinOps Practitioner    | ✅ Concluída      | [![FinOps Practitioner](https://img.shields.io/badge/FinOps-Practitioner-blue)](https://verify.skilljar.com/c/wtfhbrfhmrsc) |
+| FinOps Engineer        | ✅ Concluída      | [![FinOps Engineer](https://img.shields.io/badge/FinOps-Engineer-green)](https://verify.skilljar.com/c/hydu4wgmfws7) |
+| FinOps FOCUS Analyst   | ✅ Concluída   | [![FinOps Focus](https://img.shields.io/badge/FinOps-FOCUS-yellow)](https://verify.skilljar.com/c/vswn6ervh758) |
 
-## Contato
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)
- > guga.h.costaesilva@gmail.com  
-   
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/DDI+DDD+SEU_NUMERO_WHATSAPP)
- > +55 21 972262615  
-   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
- > [linkedin.com/in/gustavosilva](https://linkedin.com/in/gustavosilva)  
-   
+---
+## 🚀 Como eu atuo
 
-## Certificações
-- LFC131: Green Software for Practitioners
-- LFD116: Software Engeneering Basics for Embedded Systems. 
-- Desenvolvimento Seguro. 
-- Desenvolvimento Back-end. 
-- Kotlin Developer.
-- Android Developer. 
+Integro perspectivas técnicas e de negócios para transformar complexidade em clareza. Minha abordagem une **eficiência operacional**, **visibilidade de custos** e **responsabilidade ambiental**, contribuindo para ambientes de nuvem mais conscientes e sustentáveis.
 
-## Experiência Profissional
+---
 
-### Analista de Suporte Bilingue Jr - Service Desk
-**Outubro de 2023 - Presente**
-- Atendimento de Microinformática.
-- Suporte a softwares de mercado, sistemas internos e Active Directory.
-- Suporte em hardware (desktops, notebooks, impressoras, etc.).
-- Projetos de Rollout.
-- Conhecimentos em redes (Ethernet/TCP/IP) e cabeamento estruturado.
+## 📩 Vamos conversar?
 
-### Técnico de Suporte em TI - Help Desk
-**Junho de 2023 - Setembro de 2023 (4 meses)**
-- Suporte técnico eficiente em hardware, software e redes.
-- Resolução de problemas complexos.
-- Especializado em suporte para dispositivos móveis.
-
-## Formação Acadêmica
-- Curso Superior de Tecnologia (CST) em Análise e Desenvolvimento de Sistemas, Estácio, 2022 - 2024.
-
-## Idiomas
-- Inglês: Proficiência Profissional Completa
-- Português: Nativo ou Bilíngue
-- Espanhol: Proficiência Elementar
-
-Estou animado para explorar oportunidades que desafiem e expandam minhas habilidades. Vamos conectar e construir algo incrível juntos! 🚀 
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GugaSilva96&repo=Campeonato-Mundial-2024-JUDO-em-Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GugaSilva96/Campeonato-Mundial-2024-JUDO-em-Python.git) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GugaSilva96&repo=primeiros-passos-sintaxe-linguagem-lua&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GugaSilva96/primeiros-passos-sintaxe-linguagem-lua.git) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GugaSilva96&repo=loja-acai-do-marujo-python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GugaSilva96/loja-acai-do-marujo-python.git) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GugaSilva96&repo=Projeto--Sistema-Smart--TV---Simulacao-Educacional&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GugaSilva96/Projeto--Sistema-Smart--TV---Simulacao-Educacional.git)
-
-
-#Desenvolvedor #Python #Java #Kotlin #LUA #GitHub
+Se você busca alguém com fluência entre **engenharia, finanças e impacto sustentável**, estou pronto para co-criar soluções que geram valor real. Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gugasilva96/) ou envie um e-mail para [guga.h.costaesilva@gmail.com](mailto:guga.h.costaesilva@gmail.com).
